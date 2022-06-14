@@ -3,4 +3,4 @@
 
 | Название проекта | Краткое описание | Навыки, инструменты, библиотеки | 
 | :---------------------- | :---------------------- | :----------------------: |
-| [Статистический анализ данных] (https://github.com/e4poe/first_projects/blob/9c0d9875a3a3ae4b263c10338341f70c8dec8aa3/statistical%20data%20analysis/SDA.ipynb)| Исследование тарифных планов | Python, описательная статистика, проверка статистических гипотез, Pandas, Matplotlib, NumPy, SciPy, math |
+| [Статистический анализ данных](https://github.com/e4poe/first_projects/blob/9c0d9875a3a3ae4b263c10338341f70c8dec8aa3/statistical%20data%20analysis/SDA.ipynb) | Исследование тарифных планов | Python, описательная статистика, проверка статистических гипотез, Pandas, Matplotlib, NumPy, SciPy, math |
